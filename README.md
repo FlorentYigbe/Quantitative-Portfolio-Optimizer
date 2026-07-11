@@ -14,9 +14,3 @@ The model processes **30 highly diversified global assets** categorized into 4 d
 * **Metrics Computed**: Annualized Mean Returns, Annualized Volatility, and Covariance Matrix.
 * **Risk Management**: Sharpe Ratio calculation.
 * **Visualization**: Interactive cumulative return line charts comparing the portfolio against individual assets.
-
-##  Requirements & Installation
-To run the code, install the required packages:
-```bash
-pip install numpy pandas matplotlib seaborn yfinance
-```
