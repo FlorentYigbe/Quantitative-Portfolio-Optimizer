@@ -82,7 +82,7 @@ The 29-asset universe is built around four diversification axes:
 
 **Data**
 - **Survivorship bias**: only currently-listed, well-known large caps are
-  used — no delisted or failed companies, which biases historical returns
+  used - no delisted or failed companies, which biases historical returns
   upward.
 - **Currency risk not modeled explicitly**: international tickers are
   priced in USD via ADR/local listing; underlying FX exposure and hedging
