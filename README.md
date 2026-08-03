@@ -9,7 +9,7 @@
 ## Overview
 
 A quantitative portfolio optimizer built in Python, applied to a diversified
-universe of 29 global assets spanning US equities, international equities,
+universe of 29 global assets spanning European equities, international equities,
 fixed income, and alternative assets. The optimizer uses mean-variance
 optimization (SLSQP, via `scipy.optimize`) to identify the Maximum Sharpe
 Ratio and Minimum Volatility portfolios, and benchmarks their risk-adjusted
